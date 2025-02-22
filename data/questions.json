@@ -1,0 +1,152 @@
+[
+    {
+        "id": "question_3",
+        "title": "Weiterführung des Minecraft-Projekts 'INSU'",
+        "description": "Soll das Minecraft-Bedrock-Projekt 'INSU' weiterhin stattfinden?"
+    },
+    {
+        "id": "question_4",
+        "title": "Entfernung von Minecraft-Welten",
+        "description": "Sollen Minecraft-Welten in der Bedrock Edition entfernt werden?"
+    },
+    {
+        "id": "question_5",
+        "title": "Schließung von Minecraft-Bedrock-Servern",
+        "description": "Soll der Minigames-Server Syodo endgültig schließen?"
+    },
+    {
+        "id": "question_6",
+        "title": "Befürwortung von Bündnissen mit Krokodilen?",
+        "description": "Sollen Bündnisse, insbesondere mit Spezies wie Krokodilen, befürwortet werden?"
+    },
+    {
+        "id": "question_7",
+        "title": "Entfernung von Fußball-Content auf bestimmten Discords",
+        "description": "Soll Fußball-Content auf Discord-Servern, insbesondere auf solchen mit Minecraft-Schwerpunkt, entfernt werden?"
+    },
+    {
+        "id": "question_8",
+        "title": "Direkte Timeouts für pubertierende Jugendliche?",
+        "description": "Sollen pubertierende Jugendliche im Talk getimeoutet werden, wenn sie sich obszön verhalten?"
+    },
+    {
+        "id": "question_9",
+        "title": "Befreiung von Developern",
+        "description": "Sollen Developer auf bestimmten Discords vollständige Freiheit erhalten?"
+    },
+    {
+        "id": "question_10",
+        "title": "#FreeBattleBeast",
+        "description": "Soll der User 'BattleBeast' auf allen Discord-Servern, auf denen er gebannt wurde, entbannt werden?"
+    },
+    {
+        "id": "question_11",
+        "title": "Umbenennung des 'Netherportals' zu 'Endportalrahmen'?",
+        "description": "Soll das Netherportal nach den ehemaligen Begriffen von Connor Bryan in 'Endportalrahmen' umbenannt werden?"
+    },
+    {
+        "id": "question_12",
+        "title": "Absetzung von MaximalFlame?",
+        "description": "Soll MaximalFlame als Eigentümer von 'The Flames' abgesetzt werden?"
+    },
+    {
+        "id": "question_13",
+        "title": "Die Rückkehr der ostdeutschen Mauer",
+        "description": "Soll die Mauer, die früher als Grenze zwischen West- und Ostdeutschland galt, wieder errichtet werden?"
+    },
+    {
+        "id": "question_14",
+        "title": "Täglich kostenloses Bier",
+        "description": "Soll täglich eine Flasche Bier kostenlos verfügbar sein?"
+    },
+    {
+        "id": "question_15",
+        "title": "Umbenennung von Dürüm zu Yufka?",
+        "description": "Soll die Döner-Alternative 'Dürüm' in Zukunft 'Yufka' genannt werden?"
+    },
+    {
+        "id": "question_16",
+        "title": "Verlust eines Bundeslandes",
+        "description": "Soll das deutsche Bundesland Saarland künftig zu Frankreich gehören?"
+    },
+    {
+        "id": "question_17",
+        "title": "Verbot von Discord in Österreich",
+        "description": "Soll die App 'Discord' in Österreich künftig für österreichische Staatsbürger unzulässig sein?"
+    },
+    {
+        "id": "question_18",
+        "title": "Alkohol für unter 16-Jährige",
+        "description": "Sollen alkoholische Getränke für Personen unter 16 Jahren erlaubt werden?"
+    },
+    {
+        "id": "question_19",
+        "title": "X wieder in Twitter umbenennen?",
+        "description": "Soll die Social-Media-Plattform 'X' nach ihrer Umbenennung wieder 'Twitter' heißen?"
+    },
+    {
+        "id": "question_20",
+        "title": "Sprengung von Eulen",
+        "description": "Sollen Eulen gesprengt werden?"
+    },
+    {
+        "id": "question_21",
+        "title": "Soll Holzkohle eher als Kohle benutzt werden?",
+        "description": "Soll in Minecraft die Nutzung von Holzkohle der von Kohle vorgezogen werden?"
+    },
+    {
+        "id": "question_22",
+        "title": "Betreibung von Inzucht in Minecraft",
+        "description": "Sollen Dorfbewohner in Minecraft weiterhin untereinander Inzucht betreiben können?"
+    },
+    {
+        "id": "question_23",
+        "title": "Eingliederung von Liechtenstein in die Schweiz",
+        "description": "Soll das Fürstentum Liechtenstein bald ein Teil der Schweiz werden?"
+    },
+    {
+        "id": "question_24",
+        "title": "Inzest-Verbot im Saarland",
+        "description": "Sollte der angeblich verbreitete Inzest im Saarland verboten werden?"
+    },
+    {
+        "id": "question_25",
+        "title": "Euro Truck Simulator Discord erstellen",
+        "description": "Soll ein Verbund aus Bedrock-Spielern einen ETS-Discord-Server erstellen?"
+    },
+    {
+        "id": "question_26",
+        "title": "Bußgeld für das Streaming von Bedrock-Content",
+        "description": "Soll es für das Streamen von Minecraft-Bedrock-Content zukünftig ein Bußgeld geben?"
+    },
+    {
+        "id": "question_27",
+        "title": "Artikel 13: Filtermechanismus für Discord",
+        "description": "Soll Discord einen Filtermechanismus unter dem Namen Artikel 13 gegen rechtspopulistische und beleidigende Begriffe einführen?"
+    },
+    {
+        "id": "question_28",
+        "title": "Legitimierung von Hentais",
+        "description": "Sollen Hentais auf Discord und auf den jeweiligen Servern legitimiert werden?"
+    },
+    {
+        "id": "question_29",
+        "title": "Legalisierung bestimmter Anime-Plattformen",
+        "description": "Soll die Streaming-Plattform 'Aniworld' legalisiert werden?"
+    },
+    {
+        "id": "question_30",
+        "title": "Einschränkung der Rechte von Minecraft-Spielern",
+        "description": "Sollen die Rechte von Minecraft-Spielern über 20 Jahren eingeschränkt werden?"
+    },
+    {
+        "id": "question_31",
+        "title": "Bezahlung von Discord-Moderatoren",
+        "description": "Sollen Discord-Moderatoren einen gesetzlichen Mindestlohn von 20 Euro erhalten?"
+    },
+    {
+        "id": "question_32",
+        "title": "Verbot künftiger VARO-Projekte",
+        "description": "Sollen VARO-Projekte künftig wegen ihrer Häufigkeit verboten werden?"
+    }
+]
