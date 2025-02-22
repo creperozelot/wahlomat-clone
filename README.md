@@ -18,7 +18,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/FlamesOMat.git
+git clone https://github.com/creperozelot/wahlomat-clone.git
 cd FlamesOMat
 ```
 
@@ -76,5 +76,5 @@ Follow the CLI instructions to deploy.
 MIT License - Feel free to modify and use the project!
 
 ---
-🔥 Developed with passion by **YOUR_NAME**
+🔥 Developed with passion by **creperozelot**
 
