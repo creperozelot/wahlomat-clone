@@ -1,5 +1,7 @@
 # FlamesOMat
 
+[![Build and Push Docker Image](https://github.com/creperozelot/wahlomat-clone/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/creperozelot/wahlomat-clone/actions/workflows/docker-publish.yml)
+
 FlamesOMat is a custom Wahl-O-Mat-style application built with **Next.js**, **React**, **TypeScript**, and **MUI**. The application allows users to compare their opinions with different parties based on a customizable question and party system.
 
 ## Features
