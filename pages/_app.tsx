@@ -7,6 +7,8 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
+
+
         <meta property="og:title" content="Flame-O-Mat" />
         <meta property="og:description" content="Wähle jetzt deine Partei für die Flammenwahl 2025." />
         <meta property="og:image" content={process.env.PROVIDER_URL + "/images/screenshot_1.png"} />
@@ -18,7 +20,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Flame-O-Mat" />
         <meta name="twitter:description" content="Wähle jetzt deine Partei für die Flammenwahl 2025." />
-        <meta name="twitter:image" content={process.env.PROVIDER_URL} />
+        <meta name="twitter:image" content={process.env.PROVIDER_URL + "/images/screenshot_1.png"} />
 
       </Head>
       <Component {...pageProps} />
