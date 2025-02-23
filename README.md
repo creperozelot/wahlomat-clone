@@ -29,6 +29,11 @@ cd FlamesOMat
 npm install
 ```
 
+### Copy .env.example to .env and Modify
+```sh
+cp .env.example .env
+```
+
 ### Run in Development Mode
 ```sh
 npm run dev
